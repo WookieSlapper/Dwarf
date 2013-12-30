@@ -8,7 +8,7 @@
 </head>
 <body>
     <div>
-    Dwarf Killer is an exciting new adventure for people who have no idea what a quality game is!
+        Dwarf Killer is an exciting new adventure for people who have no idea what a quality game is!
     </div>
 </body>
 </html>
