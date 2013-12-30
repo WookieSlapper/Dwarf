@@ -1,0 +1,1 @@
+﻿function fixCage() { document.getElementById('Cage1').src = 'http://placecage.com/c/400/400'; }

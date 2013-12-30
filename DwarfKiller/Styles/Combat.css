@@ -1,0 +1,12 @@
+﻿body {
+}
+.combatant {
+    width: 300px;
+}
+.combatant div > label {
+    text-align: right;
+}
+.combatant div label {
+    width: 50%;
+    display: inline-table;
+}

@@ -1,0 +1,11 @@
+C:\Users\Mazella\Dropbox\Teaching\DwarfKiller\DwarfKiller\bin\DwarfKiller.dll
+C:\Users\Mazella\Dropbox\Teaching\DwarfKiller\DwarfKiller\bin\DwarfKiller.pdb
+C:\Users\Mazella\Dropbox\Teaching\DwarfKiller\DwarfKiller\obj\Debug\DwarfKiller.csprojResolveAssemblyReference.cache
+C:\Users\Mazella\Dropbox\Teaching\DwarfKiller\DwarfKiller\obj\Debug\DwarfKiller.dll
+C:\Users\Mazella\Dropbox\Teaching\DwarfKiller\DwarfKiller\obj\Debug\DwarfKiller.pdb
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller\bin\DwarfKiller.dll.config
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller\bin\DwarfKiller.dll
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller\bin\DwarfKiller.pdb
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller\obj\Debug\DwarfKiller.csprojResolveAssemblyReference.cache
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller\obj\Debug\DwarfKiller.dll
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller\obj\Debug\DwarfKiller.pdb

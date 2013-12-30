@@ -1,0 +1,5 @@
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller.Data\bin\Debug\DwarfKiller.Data.dll
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller.Data\bin\Debug\DwarfKiller.Data.pdb
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller.Data\obj\Debug\DwarfKiller.Data.csprojResolveAssemblyReference.cache
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller.Data\obj\Debug\DwarfKiller.Data.dll
+C:\Users\colin.h\Dropbox\Teaching\DwarfKiller\DwarfKiller.Data\obj\Debug\DwarfKiller.Data.pdb
