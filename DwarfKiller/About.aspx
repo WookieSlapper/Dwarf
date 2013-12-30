@@ -9,6 +9,12 @@
 <body>
     <div>
         Dwarf Killer is an exciting new adventure for people who have no idea what a quality game is!
+
+        <h4>Colin's TODO</h4>
+        <ul>
+            <li>Set up data connection with local db</li>
+            <li>Spice up the styles a bit</li>
+        </ul>
     </div>
 </body>
 </html>
